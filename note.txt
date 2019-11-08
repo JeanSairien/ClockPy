@@ -1,0 +1,10 @@
+class récuperation des inputs
+	input tableau heure,minutes,secondes pour alarme a heures precise
+	input tableau minutes , secondes pour minuteurs 
+
+class declanchement des conpteurs
+
+
+
+
+
